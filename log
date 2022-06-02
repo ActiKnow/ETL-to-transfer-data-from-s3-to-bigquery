@@ -1,0 +1,10 @@
+Working schemas -- data in bigquery upto date
+- actions -- 2021-01-19
+- componentShows
+- inlineVideoPlays
+- inlineVideoQuarters
+- inlineVideoSeconds
+- locatorOccurrences
+- screenShows
+- sessions
+- userErrors
